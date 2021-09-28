@@ -1,5 +1,9 @@
-# Title
+# Passive Module
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This is a front panel for Matthew Skala(North Coast Synthesis)'s multifunction passive module in Kosmo format.
+
+For more info, see [here](https://northcoastsynthesis.com/news/passive-multiples-and-friends/)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
